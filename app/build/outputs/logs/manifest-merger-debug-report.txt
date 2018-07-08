@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/eapple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/41bd9b4531c71c008be771fc6cde63ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/eapple/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/774400f057553a1b20530fd263d1c1cb/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/eapple/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/d89631f4a8ff18bd9cd837c444075fa3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/eapple/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/16cf16ccba913c8106e1cd2af8c75314/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/eapple/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/922aeeab05dbb794e8b10ab332f28a07/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/eapple/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b14578f58b0d1f365f456d5e8ee61877/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/eapple/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c4362022d1209fe24604105a0a7712c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/eapple/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/3da8f6784ded7512bd1cec993cf731fb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/eapple/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0d33e427bb6a10ca4905591bbadde15c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/eapple/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6c3e9ecd2c1807de0b427786d4d769b9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/eapple/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3a489e247952301122fcfc33f67dfc81/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/eapple/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/687daf621d9f92d892709755cdf27e80/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml
+		ADDED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml
+		ADDED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml:6:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/eapple/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/774400f057553a1b20530fd263d1c1cb/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/eapple/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/774400f057553a1b20530fd263d1c1cb/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.example.eapple.trafficmanagement.MainActivity
+ADDED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml
+INJECTED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/eapple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/41bd9b4531c71c008be771fc6cde63ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/eapple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/41bd9b4531c71c008be771fc6cde63ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/eapple/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/774400f057553a1b20530fd263d1c1cb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/eapple/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/774400f057553a1b20530fd263d1c1cb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/eapple/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/d89631f4a8ff18bd9cd837c444075fa3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/eapple/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/d89631f4a8ff18bd9cd837c444075fa3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/eapple/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/16cf16ccba913c8106e1cd2af8c75314/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/eapple/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/16cf16ccba913c8106e1cd2af8c75314/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/eapple/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/922aeeab05dbb794e8b10ab332f28a07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/eapple/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/922aeeab05dbb794e8b10ab332f28a07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/eapple/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b14578f58b0d1f365f456d5e8ee61877/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/eapple/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b14578f58b0d1f365f456d5e8ee61877/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/eapple/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c4362022d1209fe24604105a0a7712c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/eapple/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c4362022d1209fe24604105a0a7712c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/eapple/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/3da8f6784ded7512bd1cec993cf731fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/eapple/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/3da8f6784ded7512bd1cec993cf731fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/eapple/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0d33e427bb6a10ca4905591bbadde15c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/eapple/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0d33e427bb6a10ca4905591bbadde15c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/eapple/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6c3e9ecd2c1807de0b427786d4d769b9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/eapple/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6c3e9ecd2c1807de0b427786d4d769b9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/eapple/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3a489e247952301122fcfc33f67dfc81/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/eapple/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3a489e247952301122fcfc33f67dfc81/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/eapple/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/687daf621d9f92d892709755cdf27e80/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/eapple/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/687daf621d9f92d892709755cdf27e80/AndroidManifest.xml:20:5-44
+INJECTED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml
+INJECTED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml
+		ADDED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml
+		ADDED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/eapple/AndroidStudioProjects/TrafficManagement/app/src/main/AndroidManifest.xml

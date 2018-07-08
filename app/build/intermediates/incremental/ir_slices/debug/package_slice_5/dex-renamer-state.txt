@@ -1,0 +1,4 @@
+#Fri Jul 06 14:32:44 PKT 2018
+base.0=/Users/eapple/AndroidStudioProjects/TrafficManagement/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex
